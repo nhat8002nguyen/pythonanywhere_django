@@ -16,7 +16,7 @@ def start_process_scraping():
 
 	website = 'https://www.youtube.com/'
 
-	path = '/usr/bin/chromedriver'
+	path = '../chromedriver'
 
 
 	chrome_options = Options()
